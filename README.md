@@ -2,11 +2,6 @@
 
 This is a test repository for Week 15. 
 
-Today we will:
-- practice commits
-- explore RStudio integration
-- do a first push to remote
-- add new files to repository
-- let's try pulling to local
+Today we are curating individual csv files for different language families. Included are:
 
 
